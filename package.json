@@ -1,5 +1,5 @@
 {
-  "name": "ata",
+  "name": "react-native-ata",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
