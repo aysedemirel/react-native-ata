@@ -1,0 +1,27 @@
+const lightTheme = {
+  primary: '#7F7CFF',
+  secondary: '#a97cff',
+  tertiary: '#D0D1FD',
+  background: '#FFFFFF',
+  transparency: '#00000060',
+  border: '#E5E5E6',
+  item: '#F4F6FC',
+  icon: '#000000',
+  text: '#000000',
+  passive: '#DEE3EC',
+  shadow: '#1A1A1A',
+  error: 'tomato',
+  alertBackground: 'rgba(52, 52, 52, 0.8)',
+  thumb: '#f4f3f4',
+  light: '#ffdc61',
+  dark: '#000000',
+  tabIcon: '#617286',
+  primaryText: '#ffffff',
+  transparentBacg: 'rgba(0, 0, 0, 0.5)',
+  premium: '#A78BFA',
+  crown: '#e6be3b',
+  button: '#F3F4F6',
+  textInput: '#F9FAFB',
+};
+
+export default lightTheme;

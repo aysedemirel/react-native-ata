@@ -1,0 +1,27 @@
+const darkTheme = {
+  primary: '#7F7CFF',
+  secondary: '#a97cff',
+  tertiary: '#D0D1FD',
+  background: '#242E42',
+  transparency: '#FFFFFF60',
+  border: '#40444E',
+  item: '#2F3B52',
+  icon: '#ffffff',
+  text: '#ffffff',
+  passive: '#617286',
+  shadow: '#40444E',
+  error: 'tomato',
+  alertBackground: 'rgba(52, 52, 52, 0.8)',
+  thumb: '#f4f3f4',
+  light: '#fdff7c',
+  dark: '#000000',
+  tabIcon: '#617286',
+  primaryText: '#ffffff',
+  transparentBacg: 'rgba(0, 0, 0, 0.5)',
+  premium: '#8B5CF6',
+  crown: '#D4AF37',
+  button: '#374151',
+  textInput: '#1F2937',
+};
+
+export default darkTheme;
